@@ -4,6 +4,17 @@
   "description": "a dark theme made for the people",
   "version": "0.0.1",
   "publisher": "ChrisLevesque",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clevesquedev/darkmode.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "actuallydark",
+    "actually dark",
+    "dark"
+  ],
   "engines": {
     "vscode": "^1.65.0"
   },
