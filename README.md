@@ -15,4 +15,4 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 **Enjoy!**
 
-### I was sick an tired of the wannabe darkthemes, this theme is DARK
+I was sick an tired of the wannabe darkthemes, this theme is DARK
