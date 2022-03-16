@@ -1,0 +1,27 @@
+{
+  "name": "actuallydark",
+  "displayName": "ActuallyDark",
+  "description": "a dark theme made for the people",
+  "version": "0.0.1",
+  "publisher": "ChrisLevesque",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ActuallyDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ActuallyDark-color-theme.json"
+      }
+    ]
+  },
+  "configurationDefaults": {
+    "[languageId]": {
+      "editor.semanticHighlighting.enabled": true
+    }
+  }
+}
