@@ -16,7 +16,7 @@
     "sideBySideEditor.horizontalBorder": "#3090c76b",
     "sideBySideEditor.verticalBorder": "#3090c76b",
     "tree.indentGuidesStroke": "#ffffffc5",
-    "panel.border": "#0080009b",
+    "panel.border": "#3090c79b",
     "sideBarSectionHeader.background": "#3090c76b",
     "selection.background": "#3090c76b",
     "statusBar.background": "#1a1a1a",
@@ -286,7 +286,7 @@
     {
       "name": "HC Search Editor context line override",
       "scope": "meta.resultLinePrefix.contextLinePrefix.search",
-      "settings": { "foreground": "#CBEDCBf5" }
+      "settings": { "foreground": "#3090c7f5" }
     }
   ],
   "semanticHighlighting": true,
